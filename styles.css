@@ -156,11 +156,11 @@ button {
   cursor: pointer;
 }
 
-#histories {
+/* #histories {
   display: flex;
-  /* flex-wrap: wrap; */
+  flex-wrap: wrap;
   justify-content: space-between;
-}
+} */
 
 .col {
   /* width: 90%; */
@@ -198,5 +198,5 @@ button {
 
   /* .card {
     flex-direction: column;
-  } */
+  }*/
 }
